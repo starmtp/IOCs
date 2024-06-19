@@ -19,6 +19,7 @@
 /tmp/m.service
 1.0.4.tar.gz 
 ar.sh
+ai.sh
 b.sh 
 chkstart 
 exeremo
