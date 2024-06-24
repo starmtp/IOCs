@@ -15,3 +15,8 @@ retdirectyourman.eu
 149.248.79.62 
 64.95.10.243 
 206.166.251.114 
+MSTeamsSetup_c_l_.exe
+CleanUp30.dll
+TMSSetup.exe  
+CleanUp.dll
+DiskCleanUp.lnk
