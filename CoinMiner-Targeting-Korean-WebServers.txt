@@ -65,8 +65,8 @@ cpolar.exe
 service.exe
 sihost.exe
 SecurityHealthServices.exe
-ASPXspy aspx.txt
-ASPXspy good.txt
+aspx.txt
+good.txt
 index.txt
 bad.exe
 bad520.exe
