@@ -6,5 +6,14 @@ b380b771c7f5c2c26750e281101873772e10c8c1a0d2a2ff0aff1912b569ab93
 89.169.52.37 
 87.121.105.232 
 79.110.49.232 
-bin.ps1
+89.185.85.102 
+217.182.205.238 
 plugin3.dll  
+bin.ps1
+wireguard2-3.exe
+Zxpus.dll
+cvtres.exe
+Tixrgtluffu.dll
+IsSynchronized.exe
+AddinProcess.exe
+god.sck-dns.cc
