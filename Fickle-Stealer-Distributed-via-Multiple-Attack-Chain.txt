@@ -1,11 +1,15 @@
 144.208.127.230 
 185.213.208.245 
 138.124.184.210 
+hxxps://github.com/SkorikJR
 u.ps1 
 inject.ps1 
 tgmes.ps1 
 engine.ps1 
 WmiMgmt.msc
+Bypass.ps1
+discord_dblist.txt
+prepares.dat
 1b48ee91e58f319a27f29d4f3bb62e62cac34779ddc3b95a0127e67f2e141e59 
 ad57cc0508d3550caa65fcb9ee349c4578610970c57a26b7a07a8be4c8b9bed9 
 8e87ab1bb9870de9de4a7b409ec9baf8cae11deec49a8b7a5f73d0f34bea7e6f 
