@@ -14,7 +14,9 @@ cdan.bootcdn.net
 ad15.bootcdn.net
 global.bootcdn.net
 code.bootcdn.net
+polyfill.io
 wasm.polyfill.io
+cdn.polyfill.io
 cd.polyfill.io
 legacy.polyfill.io
 qa.polyfill.io
