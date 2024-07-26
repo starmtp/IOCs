@@ -1,0 +1,14 @@
+Crowdstrike_crash_reporter_v1.1-R7.zip
+41143b2e4bbb9279ba0bbb375748530cc4887cc965967e5c0cc9a39dc44937d6
+CrowdStrike_Crash_Reporter_Setup_8.R3.exe
+a7516a15e1857996373191795c79244c8f5c8deb1f17ba5dbadeac28e18ec1c7
+CrowdStrike_Crash_Reporter_Setup_8.R3.tmp
+80304da1e333ed581378797ad8b0b8d81a8ac5928b83423702f0de30f1616225
+http://{German Entity}.it.com/crowdstrike/
+http://{German Entity}.it.com/crowdstrike/media/disabled.svg
+4.180.4.19  
+99bb0f05fd135218a5c4b8cac42e58274086b543d001d7227c8f6a2b7722f425
+Java8Runtime.exe  
+82ef869e8f7accde731f8c289f19436347a30af1d53c8f61bde5bac8bc91ad1a
+csmon8.dat
+install_script.iss
