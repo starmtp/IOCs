@@ -193,7 +193,6 @@ https://xmb.pythonanywhere.com/c2/razspy
 https://xmb.pythonanywhere.com/c2/receiver
 https://ordinary-hammer-production.up.railway.app
 https://firebaseinstallations.googleapis.com/v1/projects/panel-537ff/installations
-https://api.telegram.org/bot6792648213:AAE-kEcK-lhXTFoTuVg2yqXRzk3Dr0Z9cp8
 http://80.66.76.30/Fgeadmt.mp4
 http://91.215.85.142/QWEwqdsvsf/ap.php
 https://f004.backblazeb2.com/b2api/v2/b2_download_file_by_id?fileId=4_zc14f84fceaeda7109c090616_f103dad9ec4310f72_d20240711_m135831_c004_v0402025_t0052_u01720706311090
