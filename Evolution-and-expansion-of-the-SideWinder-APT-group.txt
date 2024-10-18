@@ -177,7 +177,6 @@ vssvc.exe
 vsstrace.dll
 vssvc.exe.config
 WorkFolders.exe
-%encryptedfile%
 propsys.dll
 WorkFolders.exe.config
 credsphisher.dll
