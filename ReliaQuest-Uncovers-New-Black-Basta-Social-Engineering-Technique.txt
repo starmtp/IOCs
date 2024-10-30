@@ -1,0 +1,10 @@
+securityadminhelper.onmicrosoft.com
+supportserviceadmin.onmicrosoft.com
+supportadministrator.onmicrosoft.com
+cybersecurityadmin.onmicrosoft.com
+qr-s1.com
+qr-s2.com
+qr-s3.com
+qr-s4.com
+companymartec.com
+hessetechnology.com
