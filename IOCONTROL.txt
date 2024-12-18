@@ -1,0 +1,8 @@
+159.100.6.69
+uuokhhfsdlk.tylarion867mino.com
+ocferda.com
+1b39f9b2b96a6586c4a11ab2fdbff8fdf16ba5a0ac7603149023d73f33b84498
+/usr/bin/iocontrol
+/etc/rc3.d/S93InitSystemd.sh
+/tmp/iocontrol
+/var/run/iocontrol.pid
