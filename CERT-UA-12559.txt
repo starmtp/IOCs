@@ -12,7 +12,6 @@ ArmyPlusInstaller-v.0.10.23672.exe
 ArmyPlusInstaller-v.0.10.23722.exe
 guid.txt
 ArmyPlus.exe
-для workers.dev
 desktopapluscom.workers.dev
 desktopaplus.workers.dev
 armyplus-desktop.workers.dev
