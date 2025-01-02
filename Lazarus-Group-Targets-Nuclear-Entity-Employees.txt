@@ -21,7 +21,6 @@ IBM_VN_IT_SA.iso
 AmazonVNC.exe
 DUI70.dll
 f_xnsqlexp.dll
-dwmapi.dll
 ComparePlus.dll
 HexEditor.dll
 sleep.dll
