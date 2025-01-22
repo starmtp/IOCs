@@ -8,7 +8,6 @@ ccache.dat
 wksprt.lnk
 00_Homeoffice-Vereinbarung-2025.pdf
 Homeoffice-Vereinbarung-2025.pdf.lnk
-wksprt.exe
 ccache.dat
 www.technikzwerg.de/auth/auth/authenticate/samples.html
 www.technikzwerg.de/auth/auth/authenticate/samples.php
