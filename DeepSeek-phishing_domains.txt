@@ -9,3 +9,4 @@ deepseeklogin.us
 deepseekapk.download
 deepseekapi.download
 deepseekapp.download
+deepseek.domains
