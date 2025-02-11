@@ -1,0 +1,6 @@
+18b476d37244cb0b435d7b06912e9193
+simpletest.ddns.net
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\saasmon.exe
+C:\Program Files (x86)\SAAS Monitor\saasmon.exe
+C:\Users\User\AppData\Roaming\81E42A3A-6BA0-4784-B7EC-E653E9E1A8ED\SAAS Monitor\saasmon.exe
+C:\Users\User\AppData\Roaming\81E42A3A-6BA0-4784-B7EC-E653E9E1A8ED\logs\users\kbxxxxx.dat
