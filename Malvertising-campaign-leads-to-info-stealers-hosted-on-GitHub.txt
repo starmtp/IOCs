@@ -47,7 +47,7 @@ primetimeessentials.com
 razorskigrips.com
 lakeplacidluxuryhomes.com
 ageless-skincare.com
-clarebrownmusic.com/goodday
+clarebrownmusic.com
 razorskigrips.com
 compass-point-yachts.com
 razorskigrips.com
@@ -83,9 +83,8 @@ github.com/mp3andmovies/
 github.com/anatfile/newl
 github.com/downloadprov/www
 keikochio.com/staz/gribs.zip
-keikochio.com/incall.php?=compName=<computer name>
-stocktemplates.net/input.php?compName=<computer name>
-89.23.96.126/?v=3&event=ready&url=188.245.94.250:443/auto/28cd7492facfd54e11d48e52398aefa7/251.exe
+keikochio.com/incall.php
+stocktemplates.net
 github.com/abdfilesup/readyyes
 objects.githubusercontent.com/github-production-release-asset-2e65be/898537481
 objects.githubusercontent.com/github-production-release-asset-2e65be/898072392/ 
@@ -366,6 +365,7 @@ HelloWorld.ps1
 79.133.46.35
 84.200.24.191
 84.200.24.26
+89.23.96.126
 89.187.28.253
 185.92.181.1
 188.245.94.250
