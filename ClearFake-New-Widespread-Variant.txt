@@ -8,6 +8,7 @@ recaptcha-verify-me-1c.pages.dev
 tour-agency-media.pages.dev
 hostme.pages.dev
 sha-11x.pages.dev
+lapkimeow.icu
 recaptcha-verify-1r.pages.dev
 discover-travel-agency.pro
 recaptcha-manual.shop
