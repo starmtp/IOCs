@@ -10,4 +10,3 @@ faktura_586507.pdf.lnk
 Zadanie%20rekrutacyjne.iso
 eduway.ps1
 SkyWatchWeather.exe
-eduway.ps1
