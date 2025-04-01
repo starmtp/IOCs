@@ -6,6 +6,8 @@ d3f@ckloader
 88.119.167.239
 143.244.146.183
 megupdate.com
+zoommanager.com
+mystuff.bublup.com
 administrative-manufacturer-gw.aws-usw2.cloud-ara.tyk.io
 provincial-gaiters-gw.aws-use1.cloud-ara.tyk.io
 80110fbb81d0407340b908bb43c815d3
