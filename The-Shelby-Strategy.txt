@@ -9,6 +9,9 @@ github.com/johnshelllby
 github.com/arturshellby
 arthurshelby.click
 speed-test.click
+telecom.digital
+airport.cloud
+airport.pro
 2.56.126.151
 2.56.126.157
 2.56.126.188
