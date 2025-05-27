@@ -17,7 +17,6 @@ b8t.watchcollision.xyz
 fessoclick.com
 video-lga3-2.xx.fbcdn.net
 viewer-vccpass.com
-185.7.214.108
 w19-seasalt.com
 check.symad.icu
 check.symad.icu
@@ -27,9 +26,9 @@ buyvault.shop
 tool-back.com
 vapotrust.com
 bi.yuoei.shop
-185.7.214.108
 check.symad.icu 
 kajec.icu
+185.7.214.108
 dd8c688c4366bb144136404af5d9e4568ecb632ce3f8468f9ad48c21e6fe3e5b
 f43b4138d5b60d8db05fc9c382f2e6430cf89e1f622a04186c0748b1be94cd3e
 07253a1e6616775fcf3fa678512f2e18c0b557b043127b14b3446aa352e99d49
