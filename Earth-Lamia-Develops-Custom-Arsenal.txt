@@ -172,6 +172,8 @@ bc647e05eea89ea9b5ec3ce728e3c039dd2abd17441e7c39cf130f292edd6efc
 104.233.140.135
 134.122.176.156
 141.11.149.124
+206.237.2.40
+206.237.5.19
 chrome-online.site
 times.windowstimes.online
 dxzdq7un7c7hs.cloudfront.net
