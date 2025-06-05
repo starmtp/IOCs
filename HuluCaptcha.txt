@@ -1,0 +1,6 @@
+captcha-verify-secure.com
+security-captcha-cdn.net
+7a4b0d6c5f3e2d1c0b9a8f7e6d5c4b3a
+3e4f5d6c7b8a9d0e1f2c3b4a5d6e7f8c
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\SecurityVerifier
+192.168.23.45
