@@ -1,4 +1,3 @@
-mscorlib.dll
 VFZE6ksYnpPfSnEWUNg.sys
 cuDX73ob9SxeAS0IdV.sys
 cmstp.exe
