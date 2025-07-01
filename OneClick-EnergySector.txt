@@ -1,6 +1,5 @@
 v1a_Hardware_Analysis_Tool.exe.cdf-ms
 v1a_Hardware_Analysis_Tool.exe.manifest
-temp.dat
 history.tlb
 checkimage1.png
 ied.manifest
