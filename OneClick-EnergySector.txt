@@ -1,4 +1,3 @@
-v1a-victim.blob.core.windows.net/myit/analysis.html
 v1a_Hardware_Analysis_Tool.exe.cdf-ms
 v1a_Hardware_Analysis_Tool.exe.manifest
 temp.dat
@@ -34,3 +33,4 @@ d1ismqgtp337lz.cloudfront.net
 dzxwmpi8xepml.cloudfront.net
 7dqtdjxfycaqhjvc2qmx5js4aq0juygw.lambda-url.us-east-1.on.aws
 v1dsupport.blob.core.windows.net
+v1a-victim.blob.core.windows.net
