@@ -17,9 +17,7 @@ af2dfa1fcd055aaf0c818f49c7c4f4370629ac6eecadbcd532a1149a7e01ec11
 844c2ee464ef5cdc79c2de52eb544c55e1f9bf7ded2c2f0e44bed263f04daa42
 a05cf0002a135ade9771a1aa48109cc8aa104e7afa1c56af998f9aba2a1e3f05
 5ad456333451fcbd69977a62d4728b1fc8b5bdebee763d2b6725226078daeaf8
-tinyurl.com
 t2m.io
-t.ly
 0x0.st
 goo.su
 paste.rs
