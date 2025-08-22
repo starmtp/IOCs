@@ -21,7 +21,6 @@ t2m.io
 0x0.st
 goo.su
 paste.rs
-t2m.io
 pastebin.pl
 is.gd
 196.251.84.144
