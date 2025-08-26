@@ -8,6 +8,7 @@ panel-spectrum.net
 access-ssa-gov.es
 applemacios.com
 guildmerger.co
+cf-verifi.pages.dev
 185.234.72.186
 45.94.31.176
 3.138.123.13
@@ -17,3 +18,4 @@ guildmerger.co
 5.8.9.77
 snenal.bat
 ClientSetup.exe
+reports_528647.html
