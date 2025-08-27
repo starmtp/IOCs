@@ -27,6 +27,8 @@ ws.onehub.com
 freeupload.store
 kinneretacil.egnyte.com
 a.storyblok.com
+kinnneretacil.egnyte.com
+egyptianabrasives.com
 instance-sy9at2-relay.screenconnect.com
 instance-uwct38-relay.screenconnect.com
 146.19.143.14
@@ -83,3 +85,5 @@ e7896ccb82ae35e1ee5949b187839faab0b51221d510b25882bbe711e57c16d2
 wIHItUcE08.msi
 defense-video.zip
 questionnaire.zip
+AteraAgent.exe
+RutServ.exe
