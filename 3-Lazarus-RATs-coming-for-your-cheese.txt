@@ -45,6 +45,9 @@ msnprt.exe
 /private/etc/tls3
 %LocalAppData%\Microsoft\Software\Cache
 c:\windows\system32\cmui.exe
+tlt1bd8.tmp
+crkdf32.inf
+435c7b4fd5e1eaafcb5826a7e7c16a83
 24d5dd3006c63d0f46fb33cbc1f576325d4e7e03e3201ff4a3c1ffa604f1b74a
 4715e5522fc91a423a5fcad397b571c5654dc0c4202459fdca06841eba1ae9b3
 8c3c8f24dc0c1d165f14e5a622a1817af4336904a3aabeedee3095098192d91f
