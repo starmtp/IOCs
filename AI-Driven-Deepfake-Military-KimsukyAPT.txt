@@ -22,6 +22,7 @@ dangol.pro
 astaibs.co.kr
 zabel-partners.com
 healthindustry.sookmyung.ac.kr
+privname173.cab
 183.111.161.96
 183.111.182.195
 183.111.174.34
