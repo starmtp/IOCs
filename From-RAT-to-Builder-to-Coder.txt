@@ -3,6 +3,9 @@ stategiq.quest
 mktblend.monster
 dsgnfwd.xyz
 dndhub.xyz
+cloculdfarlle.click
+jq-scripts.global.ssl.fastly.net
+broen.shop
 e3a79ce291546191a5ddb039b2f9bf523bb9c4fb
 d340b780194d44ee9b8d32f596b5a13723abbe1d
 99cbbe5f68d50b79af8fb748f51794de137f4fe4
