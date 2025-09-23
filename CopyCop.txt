@@ -44,8 +44,6 @@ mexico.truefact.news
 spain.truefact.news
 turkey.truefact.news
 ukraine.truefact.news
-72.14.185.187
-89.31.82.185
 actu-net.fr
 actualite360.fr
 actualitesmaintenant.fr
@@ -206,6 +204,8 @@ reuters.uk.net
 185.11.145.254
 198.54.116.120
 82.221.136.24
+72.14.185.187
+89.31.82.185
 7rose7rose7rose7@gmail.com
 bowiejack79@gmail.com
 car0nmattt@gmail.com
