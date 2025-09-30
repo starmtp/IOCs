@@ -1,5 +1,8 @@
 79.132.131.184
 84.200.193.20
+45.143.166.230
+195.66.213.132
+viliam.sky-writer.online
 viliam-live-identity.online
 viliam.viliam-live-identity.online
 proof-video.online
