@@ -15,6 +15,10 @@ dauled.com
 kasymdev.com
 kasym500.com
 avtechupdate.com
+techbulldigital.com
+filomeruginfor.com
+wehelpgood.xyz
+grasmertal.com
 162.0.209.121
 95.164.68.73
 185.93.221.12
@@ -33,6 +37,9 @@ avtechupdate.com
 206.206.123.209
 45.129.199.214
 31.13.248.153
+94.232.40.49
+94.232.249.186
+91.194.11.64
 9eaa8464110883a15115b68ffa1ecf7d
 5348970723b378c7cae35bb03d8736f8e5a9f0ac
 37471af00673af4080ee21bd248536147e450d2eff45e8701a95d1163a9d62fe
