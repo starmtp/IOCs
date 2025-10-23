@@ -16,6 +16,8 @@ stoprirannukes.com
 stopholocaust.com
 pactwithus.com
 rechtsgroup.com
+azma.co.il
+sapcloud.co.il
 45.93.95.9
 89.144.42.130
 23.26.237.211
@@ -27,5 +29,3 @@ rechtsgroup.com
 77.91.74.97
 64.176.162.172
 192.248.176.137
-azma.co.il
-sapcloud.co.il
