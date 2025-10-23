@@ -19,7 +19,6 @@ mydownloadfile.z7.web.core.windows.net
 paquimetro.net
 camscanner.zip
 mydownfile.z11.web.core.windows.net
-web.core.windows.net
 racineupci.org
 naturadeco.net
 cseconline.org
