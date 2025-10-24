@@ -7,6 +7,4 @@ e94e7b953e67cc7f080b83d3a1cdcb1f
 206.119.175.178
 CreateHiddenTask.vbs
 李汉彬.lnk
-keytool.exe
-jli.dll
 83b341a1caab40ad1e7adb9fb4a8b911.zip
