@@ -13,7 +13,6 @@ c38130d7cb43cf3da4858247a751d7b9a3804183db8c4c571b6eede0590474da
 iloveanimals.shop
 root.iloveanimals.shop
 root.stealituptaded.lol
-cdn.discordapp.com
 download1529.mediafire.com
 Aykadia.rar
 ShaderSetup.rar
