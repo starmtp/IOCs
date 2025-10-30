@@ -1,3 +1,2 @@
-firebasestorage.googleapis.com
 payrails-canaccord.icu
 login.kggpho.icu
