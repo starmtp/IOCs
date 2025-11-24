@@ -160,3 +160,5 @@ api.opfktvbbb0d5pphzlc.com
 api.1f8tlqv4bfa75qaxl7.com
 api.d1iwuj0s7os571e3a4.com
 api.1r2htpstv0jyv4gr3j.com
+api.mxpanel.com
+api.mixpnl.com
