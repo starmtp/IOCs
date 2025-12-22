@@ -34,10 +34,8 @@ portal.msprogresssharefile.cloud
 sharingfilesystems.z13.web.core.windows.net
 myapplicationinterfaces.s3.eu-north-1.amazonaws.com
 corphostedfileservices.s3.eu-north-1.amazonaws.com
+xgjtvyptrjlsosv.live
+vxhwuulcnfzlfmh.live
 robert.pena@FirstTrustAdvisorsLP.onmicrosoft.com
 no-reply.doc333@ksmus.virtoshare.com
 196.251.80.184
-onlinedocuments-{OrganisationName}.xgjtvyptrjlsosv.live
-onlinedocuments-{OrganisationName}.xgjtvyptrjlsosv.live
-onlinedocuments-{OrganizationName}.vxhwuulcnfzlfmh.live
-onlinedocuments-{OrganisationName}.vxhwuulcnfzlfmh.live
