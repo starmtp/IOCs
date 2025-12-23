@@ -1,4 +1,4 @@
-employee-hr-portal.com 
+employee-hr-portal.com
 secure-hr-portal.com
 corporate-hr-portal.com
 mybenefits-portal.com
@@ -19,7 +19,7 @@ securemailboxaccess.com
 securemail-portal.com
 businessemailportal.com
 benefitsaccessportal.com
-benefitsapp001.com 
+benefitsapp001.com
 benefitsapp01.com
 benefitsselfservice.com
 benefitsnews.io
