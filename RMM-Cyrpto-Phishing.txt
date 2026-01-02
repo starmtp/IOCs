@@ -1,0 +1,5 @@
+download.eternldesktop.network
+etrnl.msi
+unattended-updater.exe
+8fa4844e40669c1cb417d7cf923bf3e0
+3f317e17741122cd4ea30123ba241cd0
