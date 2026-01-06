@@ -5,10 +5,7 @@
 193.233.201.12
 195.20.17.253
 45.83.181.160
-multi-user.target
-network.target
 bafairforce.army
-hunt.io
 ns1.bafairforce.army
 ns1.ubunutpackages.store
 testing.caai.in
