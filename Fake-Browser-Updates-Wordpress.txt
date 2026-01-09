@@ -1,0 +1,2 @@
+persistancejs.store
+secure-java-update.com
