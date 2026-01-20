@@ -30,12 +30,6 @@ vault.appsuites.ai
 fullpdf.com
 ee1c374311170810dc722a21545aca9e9278d03c
 71edb9f9f757616fe62a49f2d5b55441f91618904517337abd9d0725b07c2a51
-PDFEditorSetup.exe
-PDF Editor.exe
-pdfeditor.js
-ManualFinderApp.exe
-AppSuite-PDF.msi
-ManualFinder-v2.0.196.msi
 13698b05960edbda52fa8f4836526f27e8fc519ca0f4a7bc776990568523113e
 2e224a7a7bc6e85f8d16ae4258ee5f88a5bcc104148c0612250e6c2faf37a187
 abbb3e96b910c9d1e2074dc05fd51e78984941f03bcb7d443714838849a7a928
@@ -51,3 +45,9 @@ b9b4375c1992b71f9dc08ee613b2b316b8df8b9e1fdd2c7a1e98d89f43a1625f
 f748022beadc73f905f9cd2d5b94be2095265433f6c9770860facda2f6b623c6
 fde67ba523b2c1e517d679ad4eaf87925c6bbf2f171b9212462dc9a855faa34b
 ed797beb927738d68378cd718ea0dc74e605df0e66bd5670f557217720fb2871
+PDFEditorSetup.exe
+PDF Editor.exe
+pdfeditor.js
+ManualFinderApp.exe
+AppSuite-PDF.msi
+ManualFinder-v2.0.196.msi
