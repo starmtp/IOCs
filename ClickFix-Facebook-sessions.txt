@@ -4,7 +4,6 @@ info-required.vercel.app
 badge-opportunity-free.surge.sh
 ik.imagekit.io
 handle.gadgetsdecory.xyz
-143.198.42.253
 review-new-issue.neocities.org
 resolve-newissue-here.surge.sh
 1-free-reward.netlify.app
@@ -149,3 +148,4 @@ postal-form.on.shiper.app
 itguy932@gmail.com
 mjohn72929@gmail.com
 hermesanfacebookadvertising@gmail.com
+143.198.42.253
