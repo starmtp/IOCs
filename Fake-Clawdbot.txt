@@ -10,8 +10,7 @@ adbcdb613c04fd51936cb0863d2417604db0cd04792ab7cae02526d48944c77b
 04ef48b104d6ebd05ad70f6685ade26c1905495456f52dfe0fb42f550bd43388
 e20b920c7af988aa215c95bbaa365d005dd673544ab7e3577b60fecf11dcdea2
 d1e0c26774cb8beabaf64f119652719f673fb530368d5b2166178191ad5fcbea
-github.com/moltbot/
-registry.npmjs.org/moltbot/
-registry.npmjs.org/moltbot/*
+github.com/moltbot
+registry.npmjs.org/moltbot
 registry.yarnpkg.com/moltbot
 yarn.npmjs.org/moltbot
