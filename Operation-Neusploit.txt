@@ -37,3 +37,4 @@ a876f648991711e44a8dcf888a271880c6c930e5138f284cd6ca6128eca56ba1
 3f446d316efe2514efd70c975d0c87e12357db9fca54a25834d60b28192c6a69
 freefoodaid.com
 wellnesscaremed.com
+wellnessmedcare.org
