@@ -1,5 +1,4 @@
 retrodayaengineering.icu
-res.cloudinary.com
 pub-3bc1de741f8149f49bdbafa703067f24.r2.dev
 berlin101.com
 ee663d016894d44c69b1fdc9d2a5be02f028a56fc22b694ff7c1dacb2bbbcc6d
