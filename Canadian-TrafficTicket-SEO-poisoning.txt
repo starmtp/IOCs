@@ -1,0 +1,13 @@
+198.23.156.130
+my-traffic-ticket-portal.com
+my-traffic-tickets-portal.com
+search-ticket-portal.com
+ticket-portal-infraction.com
+ticket-portal-infractions.com
+ticket-portal-search.com
+ticket-portal-violations.com
+ticket-search-portal.com
+ticket-search-violation.com
+ticket-search-violations.com
+search-portal-ticket.com
+ticket-portal-violation.com
