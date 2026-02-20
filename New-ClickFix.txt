@@ -3,6 +3,7 @@ marle.io
 ndibstersoft.com
 sectigoapps.com
 solidclouaps.com
+192.121.23.146
 %APPDATA%\AegisLynx Cybernetics Ltd\AegisLynx Threat Fabric\AVU\
 %APPDATA%\DocuRay Technologies S.r.l\DocuRay PDF Professional\ZAVY\
 %APPDATA%\HelixShield Technologies ApS\HelixShield Adaptive Security\APS\ZAV\
