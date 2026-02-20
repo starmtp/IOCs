@@ -1,6 +1,6 @@
-binclloudapp[.]com
-marle[.]io
-www.ndibstersoft[.]com
+binclloudapp.com
+marle.io
+ndibstersoft.com
 %APPDATA%\AegisLynx Cybernetics Ltd\AegisLynx Threat Fabric\AVU\
 %APPDATA%\DocuRay Technologies S.r.l\DocuRay PDF Professional\ZAVY\
 %APPDATA%\HelixShield Technologies ApS\HelixShield Adaptive Security\APS\ZAV\
