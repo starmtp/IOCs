@@ -1,0 +1,11 @@
+94.154.35.115
+91.92.240.219
+178.16.53.70
+91.92.240.190
+goveanrs.org
+madamelam.com
+5ad34f3a900ec243355dea4ac0cd668ef69f95abc4a18f5fc67af2599d1893bd
+dc38f3f3c8d495da8c3b0aca8997498e9e4d19738e1e2a425af635d37d0e06b8
+cptch.bin
+cptchbuild.bin
+C:\builder_v2\stealc\x64\Release\stealc.pdb
