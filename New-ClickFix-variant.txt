@@ -2,8 +2,6 @@ cloudflare.report
 happyglamper.ro
 modacontractors.uk
 2ts-engineering.by
-static.cloudflareinsights.com
-s.w.org
 itexe.pl
 telescopepiers.com
 coffeemaxusa.com
