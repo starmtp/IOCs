@@ -114,5 +114,5 @@ ingest.filen-6.net
 193.187.148.169
 23.227.202.14
 72.62.185.31
-HKCU\Software\Classes\CLSID
+HKCU\Software\Classes\CLSID {D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D}
 OneDriveHealth
