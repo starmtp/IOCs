@@ -56,9 +56,9 @@ emiratespost-pay.com
 ae-payapp.com
 www.emirates-post.ae-payapp.com
 traz.top
-emiratespost.traz.top/cdn-cgi/phish-bypass?atok=
+emiratespost.traz.top
 racunari-bl.com
-emirates-post.racunari-bl.com/en/card.php
+emirates-post.racunari-bl.com
 myemiratespost.click
 emirates-ae.pack-541202699.azmtrust.com
 portal.sapb-aramco.com
