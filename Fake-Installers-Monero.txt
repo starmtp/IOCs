@@ -10,7 +10,6 @@ softwaredatabase.xyz
 winautordr.hopto.org
 winautordr.itemdb.com
 winautordr.kozow.com
-wscript.shell
 tabbysbakescodes.ws
 rapidfilesdatabaze.top
 tommysbakescodes.cv
