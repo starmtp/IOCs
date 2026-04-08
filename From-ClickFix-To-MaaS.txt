@@ -1,7 +1,7 @@
 519d5f0350f7880559ad6ca51eb9c4e91ffe2046b635b58ada4b7269b775bb89
 bull-run.fun
 spot-wave.fun
-cloud-verificate.com 
+cloud-verificate.com
 yuhvgbzsa66biqeatbmdvfo5b5jjefcmz5t2vjuvco5qtdkshfpabyid.onion
 LogicOptimizer\src\bootstrap.js
 LogicOptimizer\src\grpc-client.js
