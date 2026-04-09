@@ -19,4 +19,3 @@ satanshop.net
 conn.f12screenshot.xyz
 158.94.208.122
 178.16.54.252
-192.168.5.220
