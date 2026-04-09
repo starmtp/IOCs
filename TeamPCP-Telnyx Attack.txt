@@ -1,0 +1,7 @@
+7321caa303fe96ded0492c747d2f353c4f7d17185656fe292ab0a59e2bd0b8d9
+cd08115806662469bbedec4b03f8427b97c8a4b3bc1442dc18b72b4e19395fe3
+23b1ec58649170650110ecad96e5a9490d98146e105226a16d898fbe108139e5
+ab4c4aebb52027bf3d2f6b2dcef593a1a2cff415774ea4711f7d6e0aa1451d4e
+83.142.209.203
+%APPDATA%\Microsoft\Windows\StartMenu\Programs\Startup\msbuild.exe
+%APPDATA%\Microsoft\Windows\StartMenu\Programs\Startup\msbuild.exe.lock
