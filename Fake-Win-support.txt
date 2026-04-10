@@ -1,0 +1,9 @@
+13c97012b0df84e6491c1d8c4c5dc85f35ab110d067c05ea503a75488d63be60
+c94de13f548ce39911a1c55a5e0f43cddd681deb5a5a9c4de8a0dfe5b082f650
+microsoft-update.support
+datawebsync-lvmv.onrender.com
+sync-service.system-telemetry.workers.dev
+store8.gofile.io
+C:\Users\<USER>\AppData\Local\Programs\WindowsUpdate\WindowsUpdate.exe
+C:\Users\<USER>\AppData\Local\Programs\WindowsUpdate\AppLauncher.vbs
+C:\Users\<USER>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Spotify.lnk
