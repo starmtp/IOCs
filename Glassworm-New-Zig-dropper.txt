@@ -1,0 +1,5 @@
+specstudio/code-wakatime-activity-tracker
+autoimport-2.7.9
+vsx_installer_zig
+2819ea44e22b9c47049e86894e544f3fd0de1d8afc7b545314bd3bc718bf2e02
+112d1b33dd9b0244525f51e59e6a79ac5ae452bf6e98c310e7b4fa7902e4db44
