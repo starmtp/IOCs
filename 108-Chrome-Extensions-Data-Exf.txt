@@ -1,3 +1,4 @@
+144.126.135.238
 kiev3381917@gmail.com
 formatron.service@gmail.com
 nashprom.info@gmail.com
@@ -18,7 +19,6 @@ chat.cloudapi.stream
 crm.cloudapi.stream
 top.rodeo
 metal.cloudapi.stream
-144.126.135.238
 coin-miner.cloudapi.stream
 goldminer.cloudapi.stream
 herculessportslegend.cloudapi.stream
