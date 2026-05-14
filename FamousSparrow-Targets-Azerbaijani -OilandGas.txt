@@ -1,0 +1,9 @@
+0554f3b69d39d175dd110d765c11347a
+0554f3b69d39d175dd110d765c11347a
+762f787534a891eca8aa9b41330b4108
+HKLM\SYSTEM\CurrentControlSet\Services\vmflt
+HKLM\SYSTEM\CurrentControlSet\Services\vmflt
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+HKCU\SOFTWARE\Microsoft\LogMeIn Hamachi
+sentinelonepro.com
+virusblocker.it.com
