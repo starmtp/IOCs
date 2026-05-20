@@ -1,0 +1,6 @@
+91af8218c450d18ce231b2a2604f1fae68c825d04203fd312efc45263847ad5c
+1399a3c3567940678911262f45e8e6df4e08508deb44fca4fe47fc1f35b0faa5
+dalerocks.com
+172.67.137.209
+104.21.81.33
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\G Data
