@@ -35,9 +35,9 @@ licencemanagers.azurewebsites.net
 licencesupporting.azurewebsites.net    
 peerdistsvcmanagers.azurewebsites.net
 nanomatrix.azurewebsites.net
-PremierHealthAdvisory.com
-PremierHealthAdvisory.azurewebsites.net
-Premier-HealthAdvisory.azurewebsites.net
+premierHealthAdvisory.com
+premierHealthAdvisory.azurewebsites.net
+premier-HealthAdvisory.azurewebsites.net
 ramiltonsfinance.com
 ramiltonsfinance.azurewebsites.net
 ramiltons-finance.azurewebsites.net
