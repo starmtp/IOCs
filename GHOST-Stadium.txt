@@ -8,13 +8,13 @@ fifa.shopping
 fifa.show
 fifa.ski
 fifa.black
-Fifa.cafe
+fifa.cafe
 fifa.fund
 fifa.market
 fifa.tax
 fifa.cash
 fifa.city
-Fifa.house
+fifa.house
 mm-fifa.top
 fifa-com.co
 fifa-com.com
