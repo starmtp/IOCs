@@ -117,12 +117,9 @@ file-download-crosshairx.giize.com
 all-toll-free.loseyourip.com
 mpc-update.giize.com
 all-toll-free.publicvm.com
-198.23.185.81
 direct-download.giize.com
 servermanagemen.xyz
-185.254.97.249
 r.manage-server.xyz
-45.145.41.205
 winservec.net
 manageserver.xyz
 cloudsynn.com
@@ -132,3 +129,6 @@ serverdnsplan.net
 pingpanl.pro
 managedevice.xyz
 edgeserv.ru
+198.23.185.81
+185.254.97.249
+45.145.41.205
