@@ -1,0 +1,16 @@
+signindat.com
+193.26.115.42
+loadofferstender@gmail.com
+ec68666e8f0a3b9870d7177bab684c8dcfb8ca0bc7c8c484a71b2b33ea4e26f4
+53f1da8a032115aa682749a114f4cfebcb5ef933400a89b4bbfa84f2057222ff
+ced4407f4ac7e43c1a3010a394d111d2ad1b50a2e95668b4e9cfe739235e67bd
+b7ca8fd9ebe0a76f16deea315fac7ee94dcb18e6ac2832b5c4cb562fbc6e0ed3
+c380268d493e0cba914ce2bc55faa1d7c050c599893c3196fee01fa745e6466a
+ff5dbdcf6d7ae5d97b6f3ef412df0b977ba4a844c45b30ca78c0eeb2653d69a8
+schtasks.exe /create /tn "CrysomeLoader" /tr "C:\Users\<user>\AppData\Local\Temp\patch_diag.exe" /sc minute /mo 5 /f
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\
+patch_diag.exe
+abe_decrypt.dll
+Rate_Confirmation_LD-2026-0847.bat
+xeno_diag.log
+Rate_Confirmation_LD-2026-0847.pdf
