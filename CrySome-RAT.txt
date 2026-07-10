@@ -8,7 +8,6 @@ b7ca8fd9ebe0a76f16deea315fac7ee94dcb18e6ac2832b5c4cb562fbc6e0ed3
 c380268d493e0cba914ce2bc55faa1d7c050c599893c3196fee01fa745e6466a
 ff5dbdcf6d7ae5d97b6f3ef412df0b977ba4a844c45b30ca78c0eeb2653d69a8
 schtasks.exe /create /tn "CrysomeLoader" /tr "C:\Users\<user>\AppData\Local\Temp\patch_diag.exe" /sc minute /mo 5 /f
-HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\
 patch_diag.exe
 abe_decrypt.dll
 Rate_Confirmation_LD-2026-0847.bat
