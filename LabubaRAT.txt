@@ -1,0 +1,10 @@
+nvidia-sysruntime.exe
+nvidia_container.pdb
+C:\Users\funt\.cargo\registry\…
+nvctr_sys.db
+b7443b0ab48d2f5786d1b6f3a580f02621e9ae5a3877ee3a44e01df13d984328
+d8bf355a198fb5db3ea65cfdfcdfbd19
+pipicka.xyz
+191.44.109.130
+87.120.108.18
+168.222.254.204
