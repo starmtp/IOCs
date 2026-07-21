@@ -32,5 +32,6 @@ offlce366.com
 images.stockmemory.site
 images.stockmemory.space
 proxy.duckduckgo.com
+node3-cdn.com
 %LOCALAPPDATA%\SystemHelper\python\
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Copilot Agent.vbs
