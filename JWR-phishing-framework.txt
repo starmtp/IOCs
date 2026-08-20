@@ -42,6 +42,7 @@ ae.emiratew-post.top
 ae.emiratex-post.top
 ae.emiratey-post.top
 ae.emiratez-post.top
+singpost.89510.eu.cc
 bankfab-alelt.cfd
 bankfab-alert.cfd
 bankfab-secure.cfd
