@@ -623,6 +623,7 @@ gov.sg.billpilot24.com
 sg.tszh.top
 sg.gov-blln.com
 sg.tickbot.top
+ninjavan.msbt.top
 gov.sg.tnyz.top
 sg.tnyg.top
 gov.sg.finevia.top
