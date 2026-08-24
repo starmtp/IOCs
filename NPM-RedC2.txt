@@ -16,3 +16,4 @@ c753b7cbd2ffb89ad51dc6f48714204df8955d000520174329dd3785aede4562
 ~/.config/.rsvc
 ~/.config/systemd/user/svc-update.service
 ~/.config/autostart/system-updater.desktop
+217.60.77.63
