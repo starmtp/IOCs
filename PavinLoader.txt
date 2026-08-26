@@ -26,3 +26,5 @@ more-arpc.icu
 echo-systems.cfd
 kelemet.shop
 zarwieciv.cfd
+bsc-dataseed.binance.org
+orbitalframework.cc
