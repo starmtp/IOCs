@@ -20,7 +20,7 @@ dyb32.ddnsking.com
 dcsi23.swoop2.me
 ssi11.letsgo2.me
 ddn3.net2me.me
-hxxps://commonerdays.vercel.app/LogMeInResolve_Unattended.msi
+commonerdays.vercel.app
 mayteslaadvisorhq.s3.us-east-2.amazonaws.com
 openfodervbs4view.ams3.cdn.digitaloceanspaces.com
 46.62.197.232:7000
