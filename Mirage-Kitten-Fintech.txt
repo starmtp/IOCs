@@ -9,6 +9,7 @@ e259c5edf158aac4cfe14f77ddd0b196
 291ac3abe73c5158e59a437b75d5f0aa
 0962f56d7ec69f4f2a0162dcbe22116b
 795e053a990a1569ffdcb57f48f6d085
+810f8e3b88eb05f710c09552941d6f56
 oracle-challenge.s3.us-east-1.amazonaws.com
 naturalapplication.azurewebsites.net
 retaildemo.azurewebsites.net
