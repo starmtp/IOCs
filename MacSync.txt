@@ -1,7 +1,6 @@
 9ff32f7c0108e9d27a3b491edf04827b6ca025f44db68aeadc44eeb97c9aab11
 9678f71ea4cccbc3d511dc8d7f24b113
 59508d071661ea70fa5fcbe6f9e2fb72506e57df
-com.utils.Launcher
 d182eb7cba0ffa42d770d7b0d3499e49f24163a2
 /tmp/osalogging.zip
 /tmp/.httpcode
