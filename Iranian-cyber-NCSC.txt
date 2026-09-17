@@ -1,0 +1,7 @@
+SMQDService
+SMQDServicePackages
+backblazeb2.com
+vultrobjects.com
+storjshare.io
+iproyal.com
+lightningproxies.net
