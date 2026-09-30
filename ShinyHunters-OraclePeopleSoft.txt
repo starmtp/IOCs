@@ -2,6 +2,9 @@
 104.219.234.138
 162.219.30.165
 winmanage-me.network
+microsoft-entra.net
+azurenetfiles.net
+enroll.azuredevice.cloud
 48b4a0827da7bbfce9fb52464f8a659dea7a035189c52c506c0bfb4b1c3fe494
 2bee941fb40519d0d1ec52bd79a8f63fc65aac6455c8f2d6b668e3360dfdb5d7
 419c571ee38b7e7266d130c4b6bbc4dd0ef44d6e5f3bc02cc2cf73b762f07c86
