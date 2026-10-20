@@ -1,0 +1,12 @@
+joinconnect.cfd
+joinconnect.works
+joinhire.cfd
+joinhire.info
+joinquest.cfd
+joinquest.info
+joinquest.works
+jointhetalent.cfd
+jointhetalent.info
+jointhetalent.works
+jointheteam.cfd
+rkrt01c0mc.execute-api.ap-southeast-1.amazonaws.com
