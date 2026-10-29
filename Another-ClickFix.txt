@@ -1,0 +1,3 @@
+js-static.cfd
+cf-id.com
+api-com.cfd
