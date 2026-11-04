@@ -1,0 +1,7 @@
+call.adhelper.cc
+adhelper.cc
+aff.adhelper.cc
+adhelper.one
+img.czlbb.site
+message{MMDD}js{NNN}*.z13.web.core.windows.net
+viruswarning{MMDD}us*.z13.web.core.windows.net
