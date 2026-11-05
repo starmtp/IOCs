@@ -7,6 +7,14 @@ c170fda024183645c0aa681149304e50506509c3498bb6b9a5f5ced6aa73e5fa
 06c17b31d36838f3d29044784aa047d5c2d9174d3356c1211cf25f9df677445f
 183d62d682aea8018491c8559544e8d6a9ab0e1abd05ecbb6c97daa4f438d2b8
 387a7fb768db1350a9788d9704e7a72abe07152734e0ff026af72b417e36268c
+35c0cd19a7334b544c193e392bcd9a8f1d1f43cf6b61be5bf1d9e35537aff2ef
+621112712ec515e8791129c62feda8fff6654a0116882401609503cacc08054a
+ae3241d96cc2d99538c7aff60f382cc8dac13859bcbea3ee84992d24d22a8108
+41e6fd33a30d36dabff9ea408d9766a6583edcc107968f6dc1499f2586381967
+ads-it-assets.com
+cdn.adv-static.com
+wpvortex-mod.com
+assets-int.com
 static.flux-telemetry.com
 edge-ord.clouds-stacks.com
 ad.starx-net.com
@@ -14,3 +22,5 @@ theowo.club
 america250.holiday
 static.flux-telemetry.com
 adsprism-stat.com
+192.121.46.25
+188.190.17.232
