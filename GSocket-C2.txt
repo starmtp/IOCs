@@ -1,0 +1,12 @@
+gsocket.io
+cdn.gsocket.io
+gsgg.b-cdn.net
+d94f75a70b5cabaf786ac57177ed841732e62bdcc9a29e06e5b41d9be567bcfa
+f95c4d029e6784e3849b4d1e2e2ae1a661187236ef7c5d487c71158a290a03b5
+55d141bb2f62c527c3fea3413b8429fed7d52633d0b123b5e611bfa42165229f
+12450bafc7a4398040e1ad3a16dbf4dbc79b6a8f83ef306c4f0f73f59886f06c
+/dev/shm/.gs-0/gs-netcat_mini-linux-aarch64
+/dev/shm/.gs-0/gs-netcat_mini-linux-x86_64
+/tmp/systemd-remount-d
+/usr/bin/systemd-remount-d
+/tmp/.gsn_ora
