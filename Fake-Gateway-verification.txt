@@ -7,11 +7,3 @@ fa9e9dab893f4ae0e493c897fc81a5f8eb87d2f79d88cb9db1bf093f4661e434
 146395.xyz
 78606797.xyz
 store.flexroutegk.cc
-HKLM\SOFTWARE\Microsoft\Cryptography\MachineGuid
-HKLM\SOFTWARE\WOW6432Node\Valve\Steam
-HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Domain
-HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
-HKU\<SID>\Keyboard Layout\Preload
-HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\<browser>.exe
-HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\App Paths\<browser>.exe
-HKU\<SID>\Software\Microsoft\Windows\CurrentVersion\App Paths\<browser>.exe
