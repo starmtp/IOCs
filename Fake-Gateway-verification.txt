@@ -1,0 +1,17 @@
+91aca0a9f9bcfac07da4d0e56fba9573c26e89fc418dde1a57051fd56bfb4d43
+d5571c8898d58efffdfe5efda67f11c337a951dd173d0c50ebcffb48712e05e0
+797c945d01fd2cd96a5c0619a271314919414bec66f662167fda8b5f48c25b42
+8ab8840a5e6ec83fa8a683450da5c24831feefbdff64dc375a43e3ed17e67a81
+ec27f98b0d699b8bb3cc3761a5248030b9da7b1733ee7c769202b0aaa13123b7
+fa9e9dab893f4ae0e493c897fc81a5f8eb87d2f79d88cb9db1bf093f4661e434
+146395.xyz
+78606797.xyz
+store.flexroutegk.cc
+HKLM\SOFTWARE\Microsoft\Cryptography\MachineGuid
+HKLM\SOFTWARE\WOW6432Node\Valve\Steam
+HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Domain
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+HKU\<SID>\Keyboard Layout\Preload
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\<browser>.exe
+HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\App Paths\<browser>.exe
+HKU\<SID>\Software\Microsoft\Windows\CurrentVersion\App Paths\<browser>.exe
